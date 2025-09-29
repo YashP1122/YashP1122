@@ -56,6 +56,7 @@ div {
     </section>
     
     <section id="Projects">
+        <h2>Projects</h2>
         <div>Crop Disease Detection:</div>
         <div>Event Management System: </div>
         <div>Medical Store Management System: </div>
